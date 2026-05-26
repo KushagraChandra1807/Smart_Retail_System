@@ -1,0 +1,22 @@
+Smart Retail Assistant Knowledge Base
+
+Return Policy:
+Customers can return products within 30 days of purchase if the product is unused, undamaged, and has the original bill. Refunds are processed within 5 to 7 business days.
+
+Inventory Policy:
+If stock level falls below the minimum threshold, the system should generate a low stock alert. Store managers should reorder products based on demand forecast and recent sales trend.
+
+Demand Forecasting Policy:
+Demand forecasting helps predict future weekly sales using historical sales, holidays, promotions, weather, and economic indicators.
+
+Anomaly Detection Policy:
+Anomalies are unusual sales patterns such as sudden sales spikes, unexpected drops, or abnormal department behavior. These should be reviewed by managers.
+
+Customer Support Policy:
+Customer questions about products, returns, inventory, and store operations should be answered using verified retail policy data.
+
+Low Stock Rule:
+If available stock is lower than expected weekly demand, the system should recommend restocking.
+
+Promotion Policy:
+Discounts and promotional markdowns can increase sales during holiday weeks and seasonal demand periods.
